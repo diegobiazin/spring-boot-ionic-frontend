@@ -18,6 +18,7 @@ fluxo de fechamento de pedido, tela de perfil de usuário com envio de foto tant
 ![alt text](https://s3-sa-east-1.amazonaws.com/biazin-curso-spring-ionic/front-end.png)
 
 ```sh
+src
 |   index.html
 |   manifest.json
 |   service-worker.js
